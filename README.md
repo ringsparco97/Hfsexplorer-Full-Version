@@ -241,4 +241,4 @@ This repository serves as the official landing page for HFSExplorer. The softwar
 **Get the most recent version of HFSExplorer today!**
 
 ---
-**Last updated:** 2026-11-01 14:53:27 UTC
+**Last updated:** 2026-11-01 19:27:38 UTC
